@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"; 
 import Header from "../Components/header/Header";
-import Card from "../Components/card/Card"; 
+import Card from "../Components/card/card"; 
 import Filter from "../Components/filter/Filter";
 import SeanceCarousel from "../Components/seanceCarousel/SeanceCarousel"; 
 import axios from "axios"; 

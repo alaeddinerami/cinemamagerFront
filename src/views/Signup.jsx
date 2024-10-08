@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Input from "../Components/input/Input";
+import Input from "../Components/input/input";
 import Button from "../Components/button/Button";
 import { Link, useNavigate } from "react-router-dom"; 
 import imgd from "../assets/images/imgAuth.png";
