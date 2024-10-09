@@ -35,4 +35,4 @@ docker build -t cinemanager .
 ```
 ### After successfully building the image, run the container using the command:
 ```bash
-docker run -p 3000:80 cinemanager
+docker run -p 5173:80 cinemanager
